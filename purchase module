@@ -1,0 +1,8 @@
+# creating purchase module
+# trigger from inventory module when min stock level reached
+# defining vendors for each item
+# create mail or pdf document to make purchase order
+b = 3
+c = 4
+a = b + c
+print(a)
